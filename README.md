@@ -1,4 +1,4 @@
-# react-memeGenerator
+# SuperCoolZ 
 
 App for generating meme:
 
